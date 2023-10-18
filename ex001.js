@@ -36,5 +36,5 @@ console.log('num == 1:' + (num == 1)); //falso
 console.log('num === 1:' + (num === 1)); //falso
 console.log ('num != 1: ' + (num !=1)); // true
 
-//---operadores bit a bit                                                                                                         
+//---operadores bit a bit                                                                               
 
